@@ -1,8 +1,7 @@
 
 
 # JAINU-Model　(T5 fine-tuned model)
-JAINU is a Japanese - Ainu language machine translation model. It's still experimental, definitely updating it
-in my free time. Stay tuned!
+JAINU is a Japanese - Ainu language machine translation model.
 We used sonoisa t5-base-japanese (https://huggingface.co/sonoisa/t5-base-japanese).
 
 
@@ -10,7 +9,11 @@ We used sonoisa t5-base-japanese (https://huggingface.co/sonoisa/t5-base-japanes
 
 | input | output|
 |---|---|
-Stay tuned
+|こんにちは！|イランカラプテ!|
+|ありがとう|ヒオーイオイ|
+|ありがとうございます|イヤイライケレ|
+|熊は神ですか|キムンカムイアナクカムイネルウェ?|
+|怖いものです|アシトマプネナ|
 
 # Download
 https://huggingface.co/astremo/JAINU
