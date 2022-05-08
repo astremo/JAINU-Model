@@ -4,6 +4,7 @@
 JAINU is a Japanese - Ainu language machine translation model.
 We used sonoisa t5-base-japanese (https://huggingface.co/sonoisa/t5-base-japanese).
 
+⚠️ Attention! The model is still experimental and needs to be refined!
 
 # Examples
 
